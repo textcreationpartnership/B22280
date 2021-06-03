@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two ordinances of the Lords and Commons assembled in Parliament concerning the trained bands of the cities of London and Westminster, and the county of Middlesex : for their better appearance and execution of their duties as often as they shall be called thereunto by their captaimes [sic] or other officers : also that every captaine shall choose a marshall for his company to take notice of delinquets, and put the former order in execution, and to have out of every five shillings, twelve pence for his paines.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22280</idno><idno type="EEBO-CITATION">12201413</idno>
+  <idno type="VID">197226</idno>
+  <idno type="EEBO-PROQUEST">2240949459</idno>
+  
+            <idno type="STC">Wing E2399</idno>
+            <idno type="OCLC">12201413</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197226)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 244:E100, no 26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two ordinances of the Lords and Commons assembled in Parliament concerning the trained bands of the cities of London and Westminster, and the county of Middlesex : for their better appearance and execution of their duties as often as they shall be called thereunto by their captaimes [sic] or other officers : also that every captaine shall choose a marshall for his company to take notice of delinquets, and put the former order in execution, and to have out of every five shillings, twelve pence for his paines.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for John Wright ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197226:1"/>
+            <p>TWO ORDINANCES Of The LORDS and COMMONS Assembled in PARLIAMENT. Concerning the Trained Bands of the Cities of London and Westminster, and the County of Middlesex, for their better appea<g ref="char:EOLhyphen"/>rance and execution of their duties as often as they shall be called thereunto, by their Captaines or other Officers. Also that every Captaine shall choose a Marshall for his Company, to take notice of De<g ref="char:EOLhyphen"/>linquents, and put the former Order in Execution, and to have out of every five shillings, twelve pence for his paines.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>Die Martis, 2. Maii, 1643.</date>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <hi>ORdered by the Lords and Commons Assembled in Parlia<g ref="char:EOLhyphen"/>ment, that these two Ordinances shall be forthwith Printed and published.</hi>
+                           </p>
+                           <closer>
+                              <signed>John Browne Cler. Parliamento.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>May 4. Printed for John Wright, in the Old-Bailey. 1643.</p>
+            <pb facs="tcp:197226:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:197226:2"/>
+            <head>TWO ORDINANCES Of the Lords and Commons assembled in PARLIAMENT. <hi>Die Martis,</hi> 2. <hi>Maii,</hi> 1643.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Order of Par<g ref="char:EOLhyphen"/>liament, of the fourth of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> last, It was Ordered that the Colonells, Cap<g ref="char:EOLhyphen"/>taines, and Lieutenants of the Trained Bands, or o<g ref="char:EOLhyphen"/>thers in the Cities of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Westminster,</hi> and the Suburbs thereof, and the County of <hi>Middlesex,</hi> might inflict the punishment of two dayes Impri<g ref="char:EOLhyphen"/>sonment without Bayle or Main-prize, or the Mulct of five shillings for supply of the Service, upon such Souldiers under their commands as should not repaire to their Colours at the time appoynted, and
+<pb facs="tcp:197226:3"/> to doe their duties there, when, and as often as they should be thereunto required, unlesse they be reasonably excused by their Captain or Lieutenant; Which Order is not onely troublesome, but begets much disaffection betwixt the chiefe Officers and Souldiers, And therefore it is not so fully executed upon the Offenders as it ought to be; Thereforo it is this day Ordered by the Lords and Commons now Assembled in Parliament, That for the better Execution of the foresaid Order in every particular branch therein contained, (which every Captaine respectively is hereby required to doe) every of the said Captaines respectively shall elect and appoynt, one able person to be Marshall of his Trained Band, who shall by vertue of this Ordinance re<g ref="char:EOLhyphen"/>paire to such Souldiers as his Captaine or Lieu<g ref="char:EOLhyphen"/>tenant shall from time to time give him notice of, that have made Breach of the foresaid Order of the fourth of <hi>Ianuary,</hi> or any part thereof; Which Marshall so Elected, shall with a Constable, who is hereby required to assist him and such o<g ref="char:EOLhyphen"/>thers as he shall call to ayde him, in the name of his Captaine, inflict (according to the same Order) the punishment of two dayes Imprisonment upon him, or them, or the Mulct of five shillings, which he shall forthwith after the Receipt of the same, deli<g ref="char:EOLhyphen"/>ver and pay to his Captaine, to be imployed as by the same Order is appoynted; And for the paines taken of every such Marshall and to encourage him the better to performe his Office; It is also Orde<g ref="char:EOLhyphen"/>red, that every Captain respectively shall allow un<g ref="char:EOLhyphen"/>to him the said Marshall, out of every five shillings
+<pb facs="tcp:197226:3"/> so Collected as aforesaid, the sum of twelve pence, and if any such Marshall shall be found, remisse, negligent, or partiall, in not performing the trust in him reposed; It is likewise Ordered, That everie Captaine may at his pleasure dismisse him from his place, and Elect another in his stead, which he shall conceive to be more faithfull to performe the same; Also it is Ordered, by the Lords &amp; Commons now Assembled in Parliament, That if any Souldier, or Souldiers, Listed under any of the Captaines before mentioned, shall in the time of his or their Service, when he or they shall be commanded to doe duty, revile, or give any ill beseeming language to the Captaine, or other Officer belonging unto him, or neglect to doe such duty, as at anytime ought or shall be imposed upon him, or them, that then the Captaine or Lieutenant, may upon the Examinati<g ref="char:EOLhyphen"/>on thereof, commit such Souldier or Souldiers as shall so offend to Prison, there to remain 24. houres without Bayle or Maine-prise; And that every Captaine respectively shall be saved harmelesse by the Authority of both Houses of Parliament, for Executing the severall Orders aforesaid, or any of them.</p>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:197226:4"/>
+            <head>
+               <hi>Die Mercurii,</hi> 4. <hi>Januarii,</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas many of the Trained Bands and others, listed under severall Co<g ref="char:EOLhyphen"/>lonels and Cap<g ref="char:EOLhyphen"/>taines, inhabiting within the Cities of <hi>London</hi> and <hi>West<g ref="char:EOLhyphen"/>minster,</hi> and the County of <hi>Middlesex,</hi> have neglected to make their appearance in Armes, to doe such Service by Day or Night, within the Cities and Liberties afore<g ref="char:EOLhyphen"/>said, and in the Tower of <hi>London,</hi> as of them hath bin required, being law<g ref="char:EOLhyphen"/>fully summoned thereunto by the beat of Drum, or otherwise, for the defence of
+<pb facs="tcp:197226:4"/> King and Parliament; the safety of the Cities and Tower of <hi>London,</hi> with the adjacent parts, in the County of <hi>Middle<g ref="char:EOLhyphen"/>sex:</hi> for the Reformation of so great a neglect, and for the avoyding of so em<g ref="char:EOLhyphen"/>minent evils in these dangerous times, that might ensue thereupon; It is this day Ordered by the Lords and Com<g ref="char:EOLhyphen"/>mons now Assembled in Parliament, That the Colonels, Captaines, and Li<g ref="char:EOLhyphen"/>eutenants of the Trained Bands or o<g ref="char:EOLhyphen"/>thers in the Cities of <hi>London</hi> and <hi>West<g ref="char:EOLhyphen"/>minster,</hi> and the Suburbes thereof, and the County of <hi>Middlesex,</hi> may inflict the punishment of two dayes Imprisonment without Bayle or Main-prize, or the mulct of five shillings, for supply of the service, upon such Souldiers under their Commands, as shall not repaire to their Colours at the time appointed, and doe their duties there, when, and as often as they shall be thereunto required, unlesse they be reasonably excused, and that made knowne to the Captaine or other chiefe Officers, or being come to their colours,
+<pb facs="tcp:197226:5"/> shall depart before they be lodged, or be<g ref="char:EOLhyphen"/>ing to find Armes for others, shall refuse to provide them, or to deliver them, when, and as often as they shall be thereunto required.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
